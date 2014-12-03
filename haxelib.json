@@ -1,0 +1,13 @@
+{
+  "name": "hxdom-polymer",
+  "license": "MIT",
+  "tags": ["cross", "web"],
+  "description": "Provides type safe usage of Polymer components with hxdom.",
+  "contributors": ["Blank101"],
+  "releasenote": "Initial release.",
+  "version": "0.0.1",
+  "url": "https://github.com/Blank101/haxe-dom-polymer",
+  "dependencies": {
+    "hxdom": "0.4.0"
+  }
+}
